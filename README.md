@@ -1,7 +1,7 @@
 # 🎙️ Natiq AI
 
-Natiq AI is an intelligent podcast & audio assistant powered by advanced **AI models**.  
-It helps you **analyze, transcribe, summarize, translate, and generate insights** from audio data, all within an interactive interface.
+Natiq AI is an intelligent video & audio assistant powered by advanced **AI models**.  
+It helps you **analyze, transcribe, summarize, translate, and generate insights** from video and audio data, all within an interactive interface.
 
 ---
 ---
@@ -104,7 +104,7 @@ NATIQ_AI/
 1. **Clone the repo**
    ```bash
    git clone https://github.com/Abdelrahman47-code/Natiq_AI
-   cd Natiq-AI
+   cd Natiq_AI
    ```
 
 2. **Create virtual environment**
@@ -194,6 +194,11 @@ This project is licensed under the MIT License.
 ---
 ---
 
+## 🎥 Explanation Video on LinkedIn
+👉 [Watch it here](https://www.linkedin.com/your-video-link)
+
+---
+---
 ## 👨‍💻 Made by: Abdelrahman Eldaba
 
 - Check out my website with a portfolio [Here](https://sites.google.com/view/abdelrahman-eldaba110) 🌟
