@@ -195,7 +195,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 🎥 Explanation Video on LinkedIn
-👉 [Watch it here](https://www.linkedin.com/your-video-link)
+👉 [Watch it here](https://www.linkedin.com/posts/abdelrahmaneldaba_ai-generativeai-deeplearning-activity-7373651950812344320-Aglv)
 
 ---
 ---
