@@ -1,0 +1,15 @@
+streamlit
+yt-dlp
+pydub
+ffmpeg-python
+openai-whisper
+transformers
+torch
+gtts
+pyannote.audio
+torchvision
+torchaudio
+langdetect
+accelerate
+sacremoses
+reportlab
